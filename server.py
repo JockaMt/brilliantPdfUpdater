@@ -4,6 +4,7 @@ import json
 import os
 
 app = FastAPI()
+app.port = 8000
 
 # Caminhos dos arquivos
 LATEST_JSON_PATH = "./updates/latest.json"
