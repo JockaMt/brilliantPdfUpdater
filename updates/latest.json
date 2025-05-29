@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQjFUcWZkWjZ3SzYwQnNYK2Z4clQwZGxOdmUzWngvRTMxL3ExN3U1MWZTUlBIQ3gveGtaaWR0ZmQ5eDZnTXFXUEp0UnNTVFRqbXd4a2JEb0IvY2I4SUhGL3p6NktkMXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NTQ0MTA5CWZpbGU6YnJpbGxpYW50LXNvZnR3YXJlXzEuMS4xX3g2NF9lbi1VUy5tc2kKZ0xRaS9xMDMzZkxjM3loRkQvQkpOSWx4U3RZaUJvbWU5K2U3c05NTVpPamMxRjcxRTRKSXJsRm5VS1p6dkk5Uko0VU84TllmNEpwNEhreFJYMmVYRGc9PQo=",
-      "url": "http://localhost:8000/download"
+      "url": "https://brilliantpdfupdater.onrender.com/download"
     }
   }
 }
