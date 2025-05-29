@@ -6,7 +6,7 @@ const port = process.env.PORT || 8000;
 
 // Caminhos dos arquivos
 const LATEST_JSON_PATH = path.join(__dirname, 'updates', 'latest.json');
-const MSI_PATH = path.join(__dirname, 'updates', 'app_installer.msi');
+const MSI_PATH = path.join(__dirname, 'updates', 'brilliant-software_1.0.0_x64_en-US.msi');
 
 // Endpoint para retornar o latest.json
 app.get('/latest', (req, res) => {
